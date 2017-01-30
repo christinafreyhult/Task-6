@@ -134,12 +134,15 @@ footer {
   color: #ba8058;
 }
 
+
 /*----- media query-----*/
 
 @media (max-width: 425px){
-    .logo {
-        display: none;
+   
+    .icon_text {
+    display: none;
     }
+    
     .logo_name {
         display: block;
         color: #EAAA7F;
